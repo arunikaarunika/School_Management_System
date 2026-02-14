@@ -28,7 +28,6 @@ CSS
 Eclipse IDE  
 
 ![Screenshot 1](https://github.com/user-attachments/assets/e0b44abc-170f-4088-a290-59c3f619c8bf)
-![screenshot 2](https://github.com/user-attachments/assets/521b02f6-9020-4e6e-836f-2cdf1da6199)
 ![screenshot 3](https://github.com/user-attachments/assets/c1bfc768-15e9-4dec-908a-7964a9c06201)
 ![screenshot 4](https://github.com/user-attachments/assets/30afdbf3-d0f2-4413-8949-08e6811d9e19)
 ![screenshot 5](https://github.com/user-attachments/assets/76423494-24ae-4029-b0b2-d272cae1e1ec)
