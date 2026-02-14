@@ -93,7 +93,7 @@ public class SchoolDAO {
 		try {
 			Connection con = DBUtil.getDBConnection();
 
-			// 1️⃣ Get sequence value from Oracle
+		
 			PreparedStatement ps = con.prepareStatement("SELECT SCHOOL_SEQ.NEXTVAL FROM DUAL");
 
 			ResultSet rs = ps.executeQuery();
@@ -125,3 +125,4 @@ public class SchoolDAO {
 		return bean != null;
 	}
 }
+
